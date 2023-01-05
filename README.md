@@ -1,2 +1,2 @@
 # weather-cli-backend
-CLI for weather
+CLI for getting weather
